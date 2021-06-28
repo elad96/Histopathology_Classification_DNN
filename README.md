@@ -27,4 +27,6 @@ Classification of textures in colorectal cancer histology.
    * Debris
    * Mucosa
    * Adipose
-   * Empty* 
+   * Empty
+
+![index](https://user-images.githubusercontent.com/7150655/123632798-05566300-d821-11eb-9331-0c478fc7d230.png)
