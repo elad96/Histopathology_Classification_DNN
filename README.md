@@ -30,3 +30,14 @@ Classification of textures in colorectal cancer histology.
    * Empty
 
 ![index](https://user-images.githubusercontent.com/7150655/123632798-05566300-d821-11eb-9331-0c478fc7d230.png)
+
+Results:
+
+Using Transfer Learning of VGG16 model with CNN, Data Augmentation, and preprocessing:
+The best model achived Accuracy score of 93.4% for cells recognition and 95.5% for Tumor recognition
+
+Left - Original histopathology image
+Middle - Classification of different cells
+Right - Tumor Probability
+
+![result](https://user-images.githubusercontent.com/7150655/123633028-549c9380-d821-11eb-8306-6f0d5b45dc39.jpg)
